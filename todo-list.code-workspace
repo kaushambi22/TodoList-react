@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../project mini/New folder/portfolio"
+		},
+		{
+			"path": "../../project mini/New folder/Music web app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Music web app"
+	}
+}
